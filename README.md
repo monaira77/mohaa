@@ -1,4 +1,5 @@
-# # sudo apt-get update
+Installation Guide on Any Linux Distribution:
+# sudo apt-get update
 # sudo apt-get upgrade
 # sudo apt-get install gradle
 
@@ -39,6 +40,15 @@ Execute script:
 
 To Execute Whatsapp Crasher
 # python3 WhatsAppCrasher.py
+
+
+
+
+
+
+
+
+
 
 
 
